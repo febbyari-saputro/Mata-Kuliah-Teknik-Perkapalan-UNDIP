@@ -1,0 +1,5 @@
+Mata Kuliah yang terdapat pada jurusan Teknik Perkapalan
+- Fisika Dasar
+- Matematika Rekayasa I
+- Matematika Rekaysa II
+- Pengantar Teknik Perkapalan
