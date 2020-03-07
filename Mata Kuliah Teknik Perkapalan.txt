@@ -5,3 +5,8 @@ Mata Kuliah yang terdapat pada jurusan Teknik Perkapalan
 - Pengantar Teknik Perkapalan
 - Teori Bangunan Kapal I
 - Teori Bangunan Kapal II
+- Konstruksi Kapal I
+- Konstruksi Kapal II
+- Teori Optimasi dan Optimasi
+- Mekanika Teknik I
+- Mekanika Teknik II
